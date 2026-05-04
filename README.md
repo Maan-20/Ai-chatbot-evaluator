@@ -5,7 +5,11 @@ Interactive tool to compare and evaluate AI responses across accuracy, tone, bia
 An interactive prototype tool designed to compare and evaluate AI-generated responses across multiple dimensions such as accuracy, tone, bias, and reasoning.
 
 ---
+# 🤖 AI Chatbot Evaluation Playground
 
+Built to simulate real-world AI evaluation by comparing model responses across key quality dimensions.
+
+---
 ## 🧠 Objective
 
 This project explores how different AI systems respond to the same prompt and highlights differences in behavior, consistency, and quality.
