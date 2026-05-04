@@ -1,4 +1,4 @@
-# Ai-chatbot-evaluator
+# AI-Chatbot-Evaluator
 Interactive tool to compare and evaluate AI responses across accuracy, tone, bias, and reasoning.
 # 🤖 AI Chatbot Evaluation Playground
 
